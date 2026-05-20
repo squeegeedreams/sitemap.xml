@@ -1,1 +1,1 @@
-# squeegeedreamssitemap
+# sitemap
